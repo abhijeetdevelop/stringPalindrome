@@ -1,2 +1,2 @@
 # stringPalindrome
-Checking string if they're palindrom
+Checking string if they're palindrome or not
